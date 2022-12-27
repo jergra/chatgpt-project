@@ -1,6 +1,6 @@
 dec 26, 2022 
 
-C:/dev/chatgpt_project 
+C:/dev/chatgpt-project 
 
 from tutorial:
     Build and Deploy Your Own ChatGPT AI App in JavaScript | OpenAI, Machine Learning
@@ -13,6 +13,17 @@ start client (from client folder):
 
 start server (from server folder):
     npm run server
+
+deployed:
+    https://chatgpt-project.vercel.app/
+
+the server is deployed at:
+    https://dashboard.render.com/
+
+update (at the root):
+    git add .
+    git commit -m 'message'
+    git push
 
 
 
